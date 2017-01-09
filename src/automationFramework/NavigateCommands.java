@@ -17,5 +17,4 @@ public class NavigateCommands {
 		driver.navigate().refresh();
 		driver.close();
 	}
-
 }
